@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Hayden Prater, I am a new software developer. I will graduate from the University of Arkansas with a Bachelor's
+in Computer Engineering at the end of 2023. This summer I will be attending Tech Elevator's full stack java course,
+where I hope to sharpen my skills and expand my network. 
