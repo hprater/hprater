@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Hayden Prater, I am a new software developer. I will graduate from the University of Arkansas with a Bachelor's
-in Computer Engineering at the end of 2023. This summer I will be attending Tech Elevator's full stack java course,
-where I hope to sharpen my skills and expand my network. 
+With a profound interest in technology, I immersed myself in the world of computer engineering for the past four years. 
+This journey has equipped me with a strong foundation in various programming languages, system architecture, and problem-solving methodologies. 
+Currently, I'm embarking on an exciting adventure in the Java Coding Bootcamp through Tech Elevator, aiming to further enhance my skills and stay at the cutting edge of the ever-evolving tech industry. 
