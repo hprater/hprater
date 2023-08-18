@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-With a profound interest in technology, I immersed myself in the world of computer engineering for the past four years. 
-This journey has equipped me with a strong foundation in various programming languages, system architecture, and problem-solving methodologies. 
-Currently, I'm embarking on an exciting adventure in the Java Coding Bootcamp through Tech Elevator, aiming to further enhance my skills and stay at the cutting edge of the ever-evolving tech industry. 
+With a keen interest in technology, I've delved into the world of computer engineering for the past four years, building a strong foundation in various programming languages, system architecture, and effective problem-solving strategies.
+
+Notably, I've also participated in Tech Elevator, further expanding my skills and knowledge in the tech field. Concurrently, I'm in the final semester of my college education, adding to my academic journey and preparing for a promising future.
