@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-With a keen interest in technology, I've delved into the world of computer engineering for the past four years, building a strong foundation in various programming languages, system architecture, and effective problem-solving strategies.
+With a keen interest in technology, I've delved into the world of computer engineering for the past five years through the University of Arkansas and as an IT Product Owner at Tyson Foods, building a strong foundation in various programming languages, system architecture, and effective problem-solving strategies (Most current projects are private).
 
-Notably, I've also participated in Tech Elevator, further expanding my skills and knowledge in the tech field. Concurrently, I'm in the final semester of my college education, adding to my academic journey and preparing for a promising future.
+Notably, I've also participated in Tech Elevator, further expanding my skills and knowledge in the tech field by building full-stack applications. Concurrently, I drill quarterly running soldiers through the Army Sniper Schoolhouse, continuously improving and adapting my leadership style. 
